@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KAEE,eACF,CAEA,YAJE,aAOF,CAHA,OAEE,eACF","file":"style.a7efeb83.css","sourceRoot":"../src","sourcesContent":[".put {\n  display: block;\n  margin-top: 10px;\n}\n\n.field {\n  display: block;\n  margin-top: 20px;\n}\n"]}
